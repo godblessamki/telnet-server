@@ -1,0 +1,8 @@
+build/
+app/build/
+test_report.html
+natt-logs/
+pid-list.txt
+.gradle/8.7/executionHistory/executionHistory.bin
+.gradle/8.7/fileHashes/resourceHashesCache.bin
+.gradle/buildOutputCleanup/outputFiles.bin
